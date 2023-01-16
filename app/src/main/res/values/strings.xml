@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">E-Doc</string>
+    <string name="sign_in">Sign In</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password</string>
+    <string name="daftar_pasien">Daftar Pasien</string>
+    <string name="nama">Pasien 1</string>
+    <string name="nomor">000001</string>
+    <string name="alamat">Yogyakarta</string>
+    <string name="label_nomor">NO. RM: </string>
+    <string name="label_alamat">Alamat: </string>
+    <string name="gender">Laki-Laki</string>
+</resources>
